@@ -1,1 +1,1 @@
-# otus-qa-kotlin-hw
+# Домашние задания по курсу otus-qa-kotlin-hw
